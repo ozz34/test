@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8716F53729C08F1100746394 /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8716F53629C08F1100746394 /* File2.swift */; };
 		8716F53929C08F9400746394 /* File1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8716F53829C08F9400746394 /* File1.swift */; };
+		8716F53B29C0904A00746394 /* File3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8716F53A29C0904A00746394 /* File3.swift */; };
 		87D1C19D29B242C400AC6810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D1C19C29B242C400AC6810 /* AppDelegate.swift */; };
 		87D1C19F29B242C400AC6810 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D1C19E29B242C400AC6810 /* SceneDelegate.swift */; };
 		87D1C1A129B242C400AC6810 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D1C1A029B242C400AC6810 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		8716F53629C08F1100746394 /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
 		8716F53829C08F9400746394 /* File1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File1.swift; sourceTree = "<group>"; };
+		8716F53A29C0904A00746394 /* File3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File3.swift; sourceTree = "<group>"; };
 		87D1C19929B242C400AC6810 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87D1C19C29B242C400AC6810 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87D1C19E29B242C400AC6810 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				87D1C19E29B242C400AC6810 /* SceneDelegate.swift */,
 				87D1C1A029B242C400AC6810 /* ViewController.swift */,
 				8716F53629C08F1100746394 /* File2.swift */,
+				8716F53A29C0904A00746394 /* File3.swift */,
 				8716F53829C08F9400746394 /* File1.swift */,
 				87D1C1A229B242C400AC6810 /* Main.storyboard */,
 				87D1C1A529B242C600AC6810 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				87D1C1A129B242C400AC6810 /* ViewController.swift in Sources */,
+				8716F53B29C0904A00746394 /* File3.swift in Sources */,
 				87D1C19D29B242C400AC6810 /* AppDelegate.swift in Sources */,
 				87D1C19F29B242C400AC6810 /* SceneDelegate.swift in Sources */,
 				8716F53929C08F9400746394 /* File1.swift in Sources */,
